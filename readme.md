@@ -4,7 +4,7 @@ tensorflow auto install script in **intel** macbook.
 
 if you are **M1** macbook. check here [tensorflow ISSUE](https://github.com/apple/tensorflow_macos/issues/153)
 
-
+enjoy!
 
 ## USAGE
 
